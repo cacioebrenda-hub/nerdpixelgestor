@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.nerdpixel.gestor",
+    "sha256_cert_fingerprints": ["84:C2:FA:3A:15:19:10:F1:F4:DE:58:C4:23:EA:FE:0D:6F:5D:C3:8C:0D:DA:D3:58:EE:50:B0:61:E0:5C:E7:90"]
+  }
+}]
